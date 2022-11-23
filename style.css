@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 
-.background{
+.background {
+    background-color: #000;
     background-image: url(foto1.png);
     background-size: cover;
     background-position: center;
